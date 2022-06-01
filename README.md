@@ -66,3 +66,14 @@ O desafio será avaliado através dos seguintes critérios.
 - O código possibilita expansão para novas funcionalidades?
 - O código é Don't Repeat Yourself?
 - O código é fácil de compreender?
+
+## Links úteis
+
+- [Figma da Prova](https://www.figma.com/file/5TVAkg1MawaEpuMpUDEK3J/Prova-CBM-Front-end?node-id=0%3A1)
+- [Design Patterns](https://www.uxpin.com/studio/blog/react-design-patterns/)
+- [Material designer](https://mui.com/pt/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Testes unitarios](https://testing-library.com/docs/react-testing-library/example-intro)
+- [React+Docker](https://sharklabs.com.br/reactjs-docker-desenvolvendo-web-apps/)
+- [Git-flow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04)
+- [Semantic Commits](https://www.conventionalcommits.org/en/v1.0.0/)
