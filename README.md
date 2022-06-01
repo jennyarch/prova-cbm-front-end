@@ -36,21 +36,17 @@ Para concorrer a vaga o candidato terá que desenvolver uma aplicação web util
 ## Oque será avaliado?
 O desafio será avaliado através dos seguintes critérios.
 
-- Habilidade com framework de front-end
+- O quão próximo chegou ao protótipo
+- Habilidade com framework
 - Habilidade em estilização de página HTML
 - Arquitetura do projeto
 - Utilização de componentes
-- Testes unitários
 - Responsividade
+- Testes unitários
 
-## Entrega
-
-- O código possui algum controle de dependências?
-- O resultado final está completo para ser executado?
-- O resultado final atende ao que se propõe fazer?
-- O resultado final atende totalmente aos requisitos propostos?
-- Existe Testes unitários ?
-- Existe alguma implementação de CI/CD ?
+## Oque seria um plus
+- Teste de integração (cypress)
+- Docker
 
 ## Boas Práticas
 
@@ -62,7 +58,6 @@ O desafio será avaliado através dos seguintes critérios.
 
 - O código foi entregue com um arquivo de README claro de como se guiar?
 - O código possui comentários pertinentes?
-- O código está em algum controle de versão?
 - Os commits são pequenos e consistentes?
 - As mensagens de commit são claras?
 
