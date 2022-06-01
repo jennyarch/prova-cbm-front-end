@@ -12,7 +12,7 @@ Para concorrer a vaga o candidato terá que desenvolver uma aplicação web util
 
 - O candidato deve fazer um **fork** desse repositório e criar sua estrutura de pastas sendo que no mesmo repositório tem que esta o **front-end**.
 - Existe uma pasta **server** onde existe um mock de uma api com os end-point nescessarios. Para executar basta acessar a pasta pelo terminal e colocar os comandos `npm install` e `npm start` apos isso basta acessar a url: `http://localhost:6666`
-- Após o projeto pronto o candidato deve fazer o *commit e push* para o seu repositório e solicitar um **pull-request**
+- Após o projeto pronto o candidato deve fazer o *commit e push* para o seu repositório **não sendo necessário** solicitar um **pull-request** basta apenas responder o email _[lima.silva@sergipetec.org.br]()_ com assunto prova finalizada e o link do git
 
 
 ## Projeto
