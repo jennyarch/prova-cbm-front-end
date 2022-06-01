@@ -26,11 +26,11 @@
       ],
       "formação": [
         {
-          "empresa": "FANESE",
+          "instituicao": "FANESE",
           "curso": "Faz tudo"
         },
         {
-          "empresa": "Pio Decimo",
+          "instituicao": "Pio Decimo",
           "curso": "Faz tudo II"
         }
       ]
